@@ -1,0 +1,18 @@
+{
+  "id": "bc60b255-4c34-4c97-8b88-124df87d18a3",
+  "collaborators": [
+    {
+      "id": "0af6b67c-236f-4766-9188-007983a36b85",
+      "role": "developer",
+      "githubUsername": "LostInStatic"
+    }
+  ],
+  "description": "",
+  "name": "ff",
+  "packageManager": "npm",
+  "useSass": false,
+  "useTypescript": false,
+  "creationDate": 1662640122231,
+  "tags": [],
+  "snippets": []
+}
